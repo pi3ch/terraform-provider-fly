@@ -1,6 +1,6 @@
 # fly.io terraform provider
 
-[![Tests](https://github.com/fly-apps/terraform-provider-fly/actions/workflows/test.yml/badge.svg)](https://github.com/fly-apps/terraform-provider-fly/actions/workflows/test.yml)
+[![Tests](https://github.com/pi3ch/terraform-provider-fly/actions/workflows/test.yml/badge.svg)](https://github.com/pi3ch/terraform-provider-fly/actions/workflows/test.yml)
 
 **This project is not currently maintained, and is not a recommended method of deployment to Fly.io.**
 
