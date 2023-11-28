@@ -2,7 +2,7 @@
 
 [![Tests](https://github.com/pi3ch/terraform-provider-fly/actions/workflows/test.yml/badge.svg)](https://github.com/pi3ch/terraform-provider-fly/actions/workflows/test.yml)
 
-**This project is not currently maintained, and is not a recommended method of deployment to Fly.io.**
+**Upstream is no longer maintined. I maintain this version only for bug fixes that I need. PR welcomed.**
 
 ### Resources
 - app (stable, but apps will be deprecated soon. Begin to favor machines.)
